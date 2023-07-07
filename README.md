@@ -10,4 +10,6 @@ In Microsoft Fabric, a lakehouse provides highly scalable file storage in a OneL
 3. Created  a lakehouse Switching to the data engineering experience
 4. ![Screenshot (556)](https://github.com/Mathex7/create-and-ingest-data-with-microsodt-fabric-lake-house/assets/106633060/ccef95db-f49e-43ed-9ba6-231d844953ae)
 
-5. 
+5. Uploaded my data. this data was gotten from https://raw.githubusercontent.com/MicrosoftLearning/dp-data/main/sales.csv
+6. Created a  shortcut to quickly pull data from internal and external locations into my  datasets. Shortcuts can be updated or removed from your item, but these changes will not affect the original data and its source.
+7. 
