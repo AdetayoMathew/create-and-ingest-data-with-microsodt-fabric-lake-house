@@ -12,4 +12,9 @@ In Microsoft Fabric, a lakehouse provides highly scalable file storage in a OneL
 
 5. Uploaded my data. this data was gotten from https://raw.githubusercontent.com/MicrosoftLearning/dp-data/main/sales.csv
 6. Created a  shortcut to quickly pull data from internal and external locations into my  datasets. Shortcuts can be updated or removed from your item, but these changes will not affect the original data and its source.
-7. 
+7.  I wrote a query with sql to extract data from the sales table; i extracted the item with its coreesponding revenue generated
+8.  ![Screenshot (561)](https://github.com/Mathex7/create-and-ingest-data-with-microsodt-fabric-lake-house/assets/106633060/1605f5b6-6c1d-498e-90e9-c661d237aafe)
+
+9.  created a report
+10.  .![Screenshot (563)](https://github.com/Mathex7/create-and-ingest-data-with-microsodt-fabric-lake-house/assets/106633060/8de946ca-473b-4794-a7cf-06e8df68eed8)
+
